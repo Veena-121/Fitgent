@@ -101,7 +101,7 @@ Each exercise compares live joint angles against reference thresholds and return
 
 ```
 fitagent/
-├── fitagent.py     
+├── fitgent.py     
 └── requirements.txt
 ```
 
